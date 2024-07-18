@@ -8,3 +8,7 @@ a {
   color: #333;
   font-size: 1rem;
 }
+h2 {
+  background-color: lightblue;
+  padding: 5px 0;
+}
