@@ -1,0 +1,9 @@
+#no .log files
+*.log
+#but do track error.log
+!error.log
+#only ignore the todo file in the current directory, not subdir/ todo
+/todo
+/build
+doc/*.txt
+doc/**/*.pdf
